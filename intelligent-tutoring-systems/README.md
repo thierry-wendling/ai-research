@@ -8,14 +8,18 @@
 * Tutoring model
 * User interface
 
-## Machine learning tasks
+## Machine learning
+### Tasks
+* Automated Short Answer Grading (ASAG)
 * Representation learning
 * Natural language tasksL NLP, NLI, summarisation, STS, etc.
 * Recommendation
+### Labelling
+* General strategies: https://github.com/thierry-wendling/ai-references/blob/main/README.md#labelling-strategies
 
 ## References
 ### General
-* https://arxiv.org/pdf/2203.03724.pdf
+* [A New Era: Intelligent Tutoring Systems Will Transform Online Learning for Millions](https://arxiv.org/pdf/2203.03724.pdf)
 ### Automated Short Answer Grading (ASAG)
 * [Survey on Automated Short Answer Grading with Deep Learning: from Word Embeddings to Transformers](https://arxiv.org/pdf/2204.03503.pdf)
 * [Automatic short answer grading with SBERT on out-of-sample questions](https://educationaldatamining.org/EDM2021/virtual/static/pdf/EDM21_paper_149.pdf)
