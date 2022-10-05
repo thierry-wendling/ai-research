@@ -14,8 +14,9 @@
 * Representation learning (knowledge graph, state change)
 * Natural language tasks: NLP (NER, POS tagging, NLI/STS, summarisation, question answering, etc.
 * Recommendation
-### Labelling
+### Labelling strategies
 * General strategies: https://github.com/thierry-wendling/ai-references/blob/main/README.md#labelling-strategies
+* [Pre-trained Language Model Based Active Learning for Sentence Matching](https://aclanthology.org/2020.coling-main.130.pdf)
 ### Datasets
 * http://deeptutor.memphis.edu/resources.htm
 * [SemEval-2013 Task 7: The Joint Student Response Analysis and 8th Recognizing Textual Entailment Challenge](https://aclanthology.org/S13-2045.pdf)
