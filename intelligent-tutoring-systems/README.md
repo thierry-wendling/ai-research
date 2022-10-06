@@ -23,6 +23,7 @@
 
 ## References
 ### General
+* https://github.com/thierry-wendling/ai-references
 * [A New Era: Intelligent Tutoring Systems Will Transform Online Learning for Millions](https://arxiv.org/pdf/2203.03724.pdf)
 ### Automated Short Answer Grading (ASAG)
 * [Survey on Automated Short Answer Grading with Deep Learning: from Word Embeddings to Transformers](https://arxiv.org/pdf/2204.03503.pdf)
