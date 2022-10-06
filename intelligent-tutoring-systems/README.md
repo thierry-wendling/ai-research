@@ -3,8 +3,9 @@
 * https://en.wikipedia.org/wiki/Intelligent_tutoring_system
 
 ## System Design
+### Overview
 ![Designing an intelligent tutoring system for computer programing in the Pacific](https://media.springernature.com/full/springer-static/image/art%3A10.1007%2Fs10639-021-10882-9/MediaObjects/10639_2021_10882_Fig2_HTML.png?as=webp "Designing an intelligent tutoring system for computer programing in the Pacific")
-### Components
+### Key Components
 * Domain model
 * Student model
 * Tutoring model:
