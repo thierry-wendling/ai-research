@@ -31,6 +31,8 @@
 * [A New Era: Intelligent Tutoring Systems Will Transform Online Learning for Millions](https://arxiv.org/pdf/2203.03724.pdf)
 ### System design
 * [Designing an intelligent tutoring system for computer programing in the Pacific](https://link.springer.com/article/10.1007/s10639-021-10882-9)
+* [Design Recommendations for Intelligent Tutoring Systems](https://www.cmu.edu/roboticsacademy/Research/design_recommendations)
+* [A General Architecture for Intelligent Tutoring of Diagnostic Classification Problem Solving](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1479898/)
 ### Automated Short Answer Grading (ASAG)
 * [Learning to Grade Short Answer Questions using Semantic Similarity Measures and Dependency Graph Alignments](https://aclanthology.org/P11-1076.pdf)
 * [Comparative Evaluation of Pretrained Transfer Learning Models on Automatic Short Answer Grading](https://arxiv.org/pdf/2009.01303.pdf)
